@@ -1,23 +1,14 @@
 import React, { Component } from 'react';
 import { View, Text } from 'react-native';
+import Header from './components/Header';
 
 class App extends Component {
   render() {
     return (
-      <View style={styles.container}>
-        <Text>
-          App
-        </Text>
+      <View>
+        <Header headerText='Albums' />
       </View>
     )
-  }
-}
-
-const styles = {
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
   }
 }
 
