@@ -4,3 +4,5 @@ react native albums app tutorial
 
 udemy:
 https://www.udemy.com/the-complete-react-native-and-redux-course
+
+<img src="./readmeAssets/RNAlbums-main.png" alt="RNAlbums-main" border="5" width="300">
